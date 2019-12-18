@@ -1,7 +1,7 @@
 window.primeTrustReady = function(pt) {
   pt.launchCreditCard({
     target: document.getElementById('main'),
-    resourceTokenHash: 'E7wL5aeZrr4d-ZwT1CVCcqrtOJVfYNIh',
+    resourceTokenHash: 'vs6dbMJZprn2NVRVxJYOYD6tIPIF2Ajt',
     events: {
       loaded() {
         const iframe = document.querySelector('#main iframe')
